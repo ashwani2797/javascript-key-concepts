@@ -1,4 +1,4 @@
-# JavaScript Done Right!<br><small>Devopedia, Sept 2018</small> #
+# JavaScript Done Right!<br>#
 
 # 0. Introduction #
 
